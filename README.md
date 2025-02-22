@@ -3,7 +3,7 @@
 ## Video Overview
 To get a quick overview of our analysis, watch the video linked below:
 
-[![Watch the Video](https://1drv.ms/v/c/c716b76000915c1b/Ef7n0GbtB6FJlNxXkjI3looB2BrE0eWnsF6uq4I9NqwTfw?e=UJ4fWJ)
+[![Watch the Video](https://github.com/yatharthchopra2424/Dynamic-Dashboard-of-Corporate-Insights-And-Employee-Well-Being-/blob/main/Screenshot%202025-02-22%20223651.png)](https://1drv.ms/v/c/c716b76000915c1b/Ef7n0GbtB6FJlNxXkjI3looB2BrE0eWnsF6uq4I9NqwTfw?e=UJ4fWJ)
 
 ## What Criteria We Used and Why?
 - We selected key parameters that impact employee wellbeing and performance.
