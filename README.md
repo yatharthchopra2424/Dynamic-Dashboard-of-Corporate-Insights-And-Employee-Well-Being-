@@ -4,6 +4,10 @@
 To get a quick overview of our analysis, watch the video linked below:
 
 
+https://github.com/user-attachments/assets/c67f4bdd-ce6c-4b03-9998-c5095a49c76c
+
+
+
 ## What Criteria We Used and Why?
 - We selected key parameters that impact employee wellbeing and performance.
 - These parameters help analyze stress levels, job satisfaction, and factors affecting productivity.
