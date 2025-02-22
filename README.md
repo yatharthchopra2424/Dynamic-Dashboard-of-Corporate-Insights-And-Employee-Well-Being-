@@ -3,7 +3,6 @@
 ## Video Overview
 To get a quick overview of our analysis, watch the video linked below:
 
-https://github.com/user-attachments/assets/b07c2f1e-2e14-4fc5-8d58-4297fd65c45b
 
 ## What Criteria We Used and Why?
 - We selected key parameters that impact employee wellbeing and performance.
