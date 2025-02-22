@@ -3,7 +3,7 @@
 ## Video Overview
 To get a quick overview of our analysis, watch the video linked below:
 
-**[Recording 2025-02-22 132818.mp4](Recording%202025-02-22%20132818.mp4)**
+**[Recording 2025-02-22 132818.mp4](Recording 2025-02-22 132818.mp4)**
 
 ## What Criteria We Used and Why?
 - We selected key parameters that impact employee wellbeing and performance.
